@@ -1,0 +1,7 @@
+C:\Users\Paul\source\repos\LogicalResoaning\ArraySorting1\bin\Debug\ArraySorting1.exe.config
+C:\Users\Paul\source\repos\LogicalResoaning\ArraySorting1\bin\Debug\ArraySorting1.exe
+C:\Users\Paul\source\repos\LogicalResoaning\ArraySorting1\bin\Debug\ArraySorting1.pdb
+C:\Users\Paul\source\repos\LogicalResoaning\ArraySorting1\obj\Debug\ArraySorting1.csproj.CoreCompileInputs.cache
+C:\Users\Paul\source\repos\LogicalResoaning\ArraySorting1\obj\Debug\ArraySorting1.exe
+C:\Users\Paul\source\repos\LogicalResoaning\ArraySorting1\obj\Debug\ArraySorting1.pdb
+C:\Users\Paul\source\repos\LogicalResoaning\ArraySorting1\obj\Debug\ArraySorting1.csprojAssemblyReference.cache
